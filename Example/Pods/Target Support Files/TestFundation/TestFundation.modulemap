@@ -1,0 +1,6 @@
+framework module TestFundation {
+  umbrella header "TestFundation-umbrella.h"
+
+  export *
+  module * { export * }
+}
