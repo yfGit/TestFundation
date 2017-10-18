@@ -7,14 +7,14 @@
 #
 
 Pod::Spec.new do |s|
-    s.name             = 'TestFundation'
-    s.version          = '1.0.0'
-    s.summary          = 'TestFundation for summary'
+    s.name             = "TestFundation"
+    s.version          = "1.0.1"
+    s.summary          = "TestFundation for summary"
     s.description      = <<-DESC
-    Guide for private pods with named 'TestFundation'
+    Guide for private pods with named "TestFundation"
     DESC
 
-    s.homepage         = 'https://github.com/yfGit'
+    s.homepage         = "https://github.com/yfGit"
     # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
     s.license          = { :type => 'MIT', :file => 'LICENSE' }
     s.author           = { 'yfGit' => 'yf_personal@163.com' }
