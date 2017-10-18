@@ -10,7 +10,8 @@
 #endif
 #endif
 
-#import "XXRootObjc.h"
+#import "NSString+LB_Filter.h"
+#import "XXTestRoot.h"
 
 FOUNDATION_EXPORT double TestFundationVersionNumber;
 FOUNDATION_EXPORT const unsigned char TestFundationVersionString[];
